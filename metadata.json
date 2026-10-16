@@ -1,0 +1,6 @@
+{
+  "name": "NexVora Meta Tag",
+  "description": "Preview, generate, and optimize Open Graph, Twitter cards, and Google SEO meta tags for your website. Built by Prince AR Abdur Rahman for NexVora Lab's Ofc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
